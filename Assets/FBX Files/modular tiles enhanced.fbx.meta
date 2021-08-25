@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 84fefd1d4d1bbf34d817412859e77be9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube.003
+    100002: hall.I
+    100004: hall.L
+    100006: hall.Slope
+    100008: hall.T
+    100010: hall.X
+    100012: //RootNode
+    100014: room 1
+    100016: room 2
+    100018: room 3
+    100020: room 4
+    100022: room slopped
+    400000: Cube.003
+    400002: hall.I
+    400004: hall.L
+    400006: hall.Slope
+    400008: hall.T
+    400010: hall.X
+    400012: //RootNode
+    400014: room 1
+    400016: room 2
+    400018: room 3
+    400020: room 4
+    400022: room slopped
+    2100000: Flagstone
+    2100002: Cobblestone
+    2100004: Rock
+    2300000: Cube.003
+    2300002: hall.I
+    2300004: hall.L
+    2300006: hall.Slope
+    2300008: hall.T
+    2300010: hall.X
+    2300012: room 1
+    2300014: room 2
+    2300016: room 3
+    2300018: room 4
+    2300020: room slopped
+    3300000: Cube.003
+    3300002: hall.I
+    3300004: hall.L
+    3300006: hall.Slope
+    3300008: hall.T
+    3300010: hall.X
+    3300012: room 1
+    3300014: room 2
+    3300016: room 3
+    3300018: room 4
+    3300020: room slopped
+    4300000: hall.Slope
+    4300002: hall.X
+    4300004: hall.T
+    4300006: hall.L
+    4300008: hall.I
+    4300010: room 4
+    4300012: room slopped
+    4300014: Cube.003
+    4300016: room 3
+    4300018: room 2
+    4300020: room 1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

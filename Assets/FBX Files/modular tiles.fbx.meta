@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 3ef55ec529db2be45a763a6f698b6045
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blocked passage
+    100002: blocked passage.wall
+    100004: column
+    100006: Cube.003
+    100008: door
+    100010: door frame
+    100012: hall.I
+    100014: hall.L
+    100016: hall.Slope
+    100018: hall.T
+    100020: hall.X
+    100022: //RootNode
+    100024: room 1
+    100026: room 2
+    100028: room 3
+    100030: room 4
+    100032: room slopped
+    400000: blocked passage
+    400002: blocked passage.wall
+    400004: column
+    400006: Cube.003
+    400008: door
+    400010: door frame
+    400012: hall.I
+    400014: hall.L
+    400016: hall.Slope
+    400018: hall.T
+    400020: hall.X
+    400022: //RootNode
+    400024: room 1
+    400026: room 2
+    400028: room 3
+    400030: room 4
+    400032: room slopped
+    2100000: Flagstone
+    2100002: Cobblestone
+    2100004: Rock
+    2100006: Wood
+    2300000: blocked passage
+    2300002: blocked passage.wall
+    2300004: column
+    2300006: Cube.003
+    2300008: door
+    2300010: door frame
+    2300012: hall.I
+    2300014: hall.L
+    2300016: hall.Slope
+    2300018: hall.T
+    2300020: hall.X
+    2300022: room 1
+    2300024: room 2
+    2300026: room 3
+    2300028: room 4
+    2300030: room slopped
+    3300000: blocked passage
+    3300002: blocked passage.wall
+    3300004: column
+    3300006: Cube.003
+    3300008: door
+    3300010: door frame
+    3300012: hall.I
+    3300014: hall.L
+    3300016: hall.Slope
+    3300018: hall.T
+    3300020: hall.X
+    3300022: room 1
+    3300024: room 2
+    3300026: room 3
+    3300028: room 4
+    3300030: room slopped
+    4300000: hall.Slope
+    4300002: column
+    4300004: door frame
+    4300006: door
+    4300008: blocked passage.wall
+    4300010: blocked passage
+    4300012: hall.X
+    4300014: hall.T
+    4300016: hall.L
+    4300018: hall.I
+    4300020: room 4
+    4300022: room slopped
+    4300024: Cube.003
+    4300026: room 3
+    4300028: room 2
+    4300030: room 1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
