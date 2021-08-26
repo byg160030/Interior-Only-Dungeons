@@ -21,13 +21,14 @@ GameObject:
   - component: {fileID: 4618214831811898}
   - component: {fileID: 33895354533270704}
   - component: {fileID: 23636317560339144}
+  - component: {fileID: 65071684807442496}
   m_Layer: 0
   m_Name: blocked passage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1900964084852848
 GameObject:
   m_ObjectHideFlags: 0
@@ -112,3 +113,15 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1743286584965468}
   m_Mesh: {fileID: 4300010, guid: 3ef55ec529db2be45a763a6f698b6045, type: 3}
+--- !u!65 &65071684807442496
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1743286584965468}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.9999998, y: 0.5000001, z: 4.000001}
+  m_Center: {x: 0, y: 0.25000006, z: 2.0000005}
